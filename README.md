@@ -1,5 +1,7 @@
 # fronend-quizz-japanese
+# Lam theo huong dan
 
+https://viblo.asia/p/i18n-trong-vuejs-YWOZr8Dw5Q0
 ## Project setup
 ```
 yarn install
